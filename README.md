@@ -6,6 +6,8 @@
   <strong>Approval-first ecommerce agents with sandboxing, audit trails, and rollback plans.</strong>
 </p>
 
+Built for Syndey OpenAI Hackathon. No longer maintained.
+
 ## The Short Version
 
 Plywood lets ecommerce teams use AI agents to do store chores safely. It is built with Codex and is designed to run Codex-backed blueprints using your ChatGPT subscription, without handing store credentials to the agent.
